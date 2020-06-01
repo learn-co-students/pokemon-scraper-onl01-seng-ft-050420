@@ -3,6 +3,7 @@ require 'bundler/setup'
 Bundler.require
 
 require 'pry'
+require 'nokogiri'
 
 require_relative "../lib/pokemon"
 require_relative "../lib/scraper"

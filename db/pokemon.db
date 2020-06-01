@@ -1,0 +1,2 @@
+# sqlite3 path/to/database.db < source_of_sql_data
+sqlite3 ./db/pokemon.db < ./schema_migration.sql 

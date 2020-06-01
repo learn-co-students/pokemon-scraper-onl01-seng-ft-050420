@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 # sqlite3 path/to/database.db < source_of_sql_data
 sqlite3 ./db/pokemon.db < ./schema_migration.sql 
+=======
+# sqlite3 path/to/database.db < source_of_sql_data
+>>>>>>> 97bb8d993966b0e79ede019439ca810e80b6d6a1
